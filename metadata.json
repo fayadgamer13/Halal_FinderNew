@@ -1,0 +1,6 @@
+{
+  "name": "Halal Finder",
+  "description": "A powerful halal finder app that scans ingredients or barcodes for additives, locates nearby certified restaurants, provides community product reviews, prayer times, and custom accent color options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
